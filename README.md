@@ -76,11 +76,11 @@ Step 5: Test with coverage report.
 
 ## Maintains & Further Integration
 
-For the further integration in this project:
+Testing Part: 
 
-Testing Part: More test coverage and test cases will be added.
+- More test coverage and test cases will be added.
 
-Functional part: 
+Functional Part: 
 
 - Currently, the first element from the return array is displayed in the species, films, vehicles, and starships columns. We'll traverse all array elements and display them in the next integration.
 
@@ -90,7 +90,9 @@ Functional part:
 
 - Currently, the website's focus is primarily on characters. After that, the user can choose from a variety of viewpoints, including planets, creatures, films, vehicles, and starships.
 
-UI/UX Part: More intriguing and significant aspects might be added to the webpage.
+UI/UX Part: 
+
+- More intriguing and significant aspects might be added to the webpage.
 
 
 ## Troubleshooting
