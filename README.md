@@ -81,6 +81,8 @@ Step 5: Test with coverage report.
 
 For the further integration in this project:
 
+Testing Part: More test coverage and test cases will be added.
+
 Functional part: 
 
 - Currently, the first element from the return array is displayed in the species, films, vehicles, and starships columns. We'll traverse all array elements and display them in the next integration.
