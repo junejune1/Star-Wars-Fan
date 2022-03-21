@@ -2,6 +2,7 @@
 
 > All the Star Wars data from:[**Here**](https://swapi.dev/)
 
+
 ## Introduction
 
 This is a web application for Star Wars fans that allows them to search for and learn more about their favorite characters from the films. All the Star Wars data in this project include: Planets, Spaceships, Vehicles, People, Films and Species based on all SEVEN Star Wars films. 
@@ -48,7 +49,7 @@ This is a web application for Star Wars fans that allows them to search for and 
 - Deploy on Heroku.
 
 
-## Installation
+## Installation & Test
 
 Step 1: Clone the repo.
 
@@ -71,10 +72,6 @@ Step 5: Test with coverage report.
 ```npm run test -- --coverage --watchAll=false```
 
 ![Screenshot](images/test_coverage.png)
-
-
-## Configuration
-
 
 
 ## Maintains & Further Integration
@@ -102,6 +99,7 @@ If you can not run successfully, please check out the dependencies.
 
 
 ## FAQ
+
 - What is the purpose of the application?
 
 For Star Wars enthusiasts who want to learn more about the films in the franchise.
