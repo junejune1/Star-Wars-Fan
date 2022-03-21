@@ -1,0 +1,44 @@
+@font-face {
+	src: url(Font/TIE-Wing.ttf);
+	font-family: tie-wing;
+}
+
+@font-face {
+	src: url(Font/Starjhol.ttf);
+	font-family: outline;
+}
+
+.App {
+	text-align: center;
+	font-size: 14px;
+}
+
+.App-header {
+	background-color: rgb(44, 44, 44);
+	color: #fee71e;
+	font-family: outline;
+	padding: 5;
+}
+
+.altFont {
+	font-family: "monospace";
+	font-size: 12;
+	font-weight: bold;
+}
+
+.margin-top {
+	margin: 5px auto;
+	text-align: center;
+}
+
+.shadows {
+	box-shadow: 0 -2px 2px rgba(248, 171, 6, 0.877), 0 3px 4px #ffc107, 3px 3px 2px rgb(229, 131, 8);
+}
+
+.return-button {
+	margin: 20 auto 10;
+}
+
+.page-btn {
+	border: 2px black solid;
+}
